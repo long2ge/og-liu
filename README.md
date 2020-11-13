@@ -26,7 +26,7 @@ Welcome to exchange technology with me. :stuck_out_tongue:
 ## Visitor count
 <p><img src="https://profile-counter.glitch.me/og-liu/count.svg" /></p>
 
-## Guestbook ([JasonEtco/readme-guestbook](https://github.com/og-liu/readme-guestbook))
+## Guestbook ([og-liu/readme-guestbook](https://github.com/og-liu/readme-guestbook))
 
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
