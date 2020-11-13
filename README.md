@@ -20,7 +20,7 @@ Welcome to exchange technology with me. :stuck_out_tongue:
 
 ## Github Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=og-liu&show_icons=false)
 
 
 ## Visitor count
